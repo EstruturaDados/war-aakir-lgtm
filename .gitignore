@@ -1,0 +1,7 @@
+# Arquivos executáveis gerados pela compilação
+war_novato
+war_aventureiro
+war_mestre
+
+# Arquivos objeto que podem ser gerados
+*.o
